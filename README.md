@@ -1,5 +1,6 @@
 # prework: HelloWorld
-# Helloworld is an android app that introducesitself and allows user to click the button to resopnd predefined message.
+ 
+ Helloworld is an android app that introduces itself and allows user to click the button to resopnd predefined message.
 
 
 #Vedio WalkThrough
